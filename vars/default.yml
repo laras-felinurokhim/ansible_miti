@@ -3,12 +3,12 @@
 php_modules: [ 'php-curl', 'php-gd', 'php-mbstring', 'php-xml', 'php-xmlrpc', 'php-soap', 'php-intl', 'php-zip' ]
 
 #MySQL Settings
-#mysql_root_password: "mysql_root_password"
-#mysql_db: "wordpress"
-#mysql_user: "sammy"
-#mysql_password: "password"
+mysql_root_password: "mysql_root_password"
+mysql_db: "wordpress"
+mysql_user: "sammy"
+mysql_password: "password"
 
 #HTTP Settings
 http_host: "miti"
-http_conf: "miti.conf"
+http_conf: "m.conf"
 http_port: "80"
