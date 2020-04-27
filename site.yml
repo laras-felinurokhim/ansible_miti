@@ -4,7 +4,7 @@
 - name: Configure prestashop server
   hosts: ec_web
   roles:
-    - common
-    - mysql
-    - apache
+    #- common
+    #- mysql
+    #- apache
     - prestashop
